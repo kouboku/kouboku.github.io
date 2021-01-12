@@ -1,0 +1,10 @@
+h1.true{
+  color: blue;
+  text-align: center;
+  font-size: 500%;
+}
+body{
+  background-image: url('omedeto.mp4');
+  background-size: contain;
+  font-family: sans-serif;
+}

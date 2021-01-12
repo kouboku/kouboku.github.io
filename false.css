@@ -1,0 +1,17 @@
+body{
+  background-image: url('hazure.gif');
+  background-size: contain;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+p{
+  color: blue;
+  font-size: 500%;
+  text-align: center;
+}
+
+a.back{
+  text-align: center;
+  color: blue;
+}
