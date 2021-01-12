@@ -1,0 +1,21 @@
+
+body{
+    background-color: #FFCCFF;
+}
+
+p.correct{
+    background-color: yellow;
+    text-decoration: none;
+    font-size: 300%;
+    color: red;
+}
+
+a.answer{
+    color: #FFCCFF;
+    font-size: 150%;
+}
+
+a.nota{
+    color: blue;
+    font-size: 200%;
+}
